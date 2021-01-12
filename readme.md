@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://error404-not-f0und.netlify.app/">
+    <a href="https://weathertoday-app.netlify.app/">
       Demo
     </a>   
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://all-js.netlify.app/?s=08">
       Challenge
     </a>
   </h3>
