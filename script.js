@@ -1,6 +1,6 @@
 var api = {
     key:"c509f0ed65d776704aa843299b477e75",
-    baseurl:"http://api.openweathermap.org/data/2.5/"
+    baseurl:"https://api.openweathermap.org/data/2.5/"
 }
 
 var searchbox = document.querySelector(".search-city");
