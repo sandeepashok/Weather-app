@@ -5,12 +5,8 @@
 <div align="center">
   <h3>
     <a href="https://weathertoday-app.netlify.app/">
-      Demo
+     >> Demo <<
     </a>   
-    <span> | </span>
-    <a href="https://all-js.netlify.app/?s=08">
-      Challenge
-    </a>
   </h3>
 </div>
 
